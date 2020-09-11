@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b4HId0DKwOFW9kXB4vzq6zgL9TCKyyE7quNWAh8fFUEaKzXY/xh2+BG9RdG8mGNsYht4LyJUcfqyjs7+joeN3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ashgupta25\\desktop\\projects\\day5\\day5_lib\\day5_lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashgupta25\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ashgupta25\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

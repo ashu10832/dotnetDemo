@@ -1,0 +1,9 @@
+C:\Users\ashgupta25\desktop\projects\day5\day5_lib\bin\Debug\netstandard2.0\day5_lib.deps.json
+C:\Users\ashgupta25\desktop\projects\day5\day5_lib\bin\Debug\netstandard2.0\day5_lib.dll
+C:\Users\ashgupta25\desktop\projects\day5\day5_lib\bin\Debug\netstandard2.0\day5_lib.pdb
+C:\Users\ashgupta25\desktop\projects\day5\day5_lib\obj\Debug\netstandard2.0\day5_lib.csprojAssemblyReference.cache
+C:\Users\ashgupta25\desktop\projects\day5\day5_lib\obj\Debug\netstandard2.0\day5_lib.AssemblyInfoInputs.cache
+C:\Users\ashgupta25\desktop\projects\day5\day5_lib\obj\Debug\netstandard2.0\day5_lib.AssemblyInfo.cs
+C:\Users\ashgupta25\desktop\projects\day5\day5_lib\obj\Debug\netstandard2.0\day5_lib.csproj.CoreCompileInputs.cache
+C:\Users\ashgupta25\desktop\projects\day5\day5_lib\obj\Debug\netstandard2.0\day5_lib.dll
+C:\Users\ashgupta25\desktop\projects\day5\day5_lib\obj\Debug\netstandard2.0\day5_lib.pdb

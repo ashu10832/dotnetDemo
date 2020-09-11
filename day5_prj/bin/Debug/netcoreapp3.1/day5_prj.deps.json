@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "day5_prj/1.0.0": {
+        "dependencies": {
+          "day5_lib": "1.0.0"
+        },
+        "runtime": {
+          "day5_prj.dll": {}
+        }
+      },
+      "day5_lib/1.0.0": {
+        "runtime": {
+          "day5_lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "day5_prj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "day5_lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

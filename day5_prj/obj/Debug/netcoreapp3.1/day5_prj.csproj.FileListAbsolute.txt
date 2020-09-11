@@ -1,0 +1,16 @@
+C:\Users\ashgupta25\desktop\projects\day5\day5_prj\bin\Debug\netcoreapp3.1\day5_prj.exe
+C:\Users\ashgupta25\desktop\projects\day5\day5_prj\bin\Debug\netcoreapp3.1\day5_prj.deps.json
+C:\Users\ashgupta25\desktop\projects\day5\day5_prj\bin\Debug\netcoreapp3.1\day5_prj.runtimeconfig.json
+C:\Users\ashgupta25\desktop\projects\day5\day5_prj\bin\Debug\netcoreapp3.1\day5_prj.runtimeconfig.dev.json
+C:\Users\ashgupta25\desktop\projects\day5\day5_prj\bin\Debug\netcoreapp3.1\day5_prj.dll
+C:\Users\ashgupta25\desktop\projects\day5\day5_prj\bin\Debug\netcoreapp3.1\day5_prj.pdb
+C:\Users\ashgupta25\desktop\projects\day5\day5_prj\bin\Debug\netcoreapp3.1\day5_lib.dll
+C:\Users\ashgupta25\desktop\projects\day5\day5_prj\bin\Debug\netcoreapp3.1\day5_lib.pdb
+C:\Users\ashgupta25\desktop\projects\day5\day5_prj\obj\Debug\netcoreapp3.1\day5_prj.csprojAssemblyReference.cache
+C:\Users\ashgupta25\desktop\projects\day5\day5_prj\obj\Debug\netcoreapp3.1\day5_prj.AssemblyInfoInputs.cache
+C:\Users\ashgupta25\desktop\projects\day5\day5_prj\obj\Debug\netcoreapp3.1\day5_prj.AssemblyInfo.cs
+C:\Users\ashgupta25\desktop\projects\day5\day5_prj\obj\Debug\netcoreapp3.1\day5_prj.csproj.CoreCompileInputs.cache
+C:\Users\ashgupta25\desktop\projects\day5\day5_prj\obj\Debug\netcoreapp3.1\day5_prj.csproj.CopyComplete
+C:\Users\ashgupta25\desktop\projects\day5\day5_prj\obj\Debug\netcoreapp3.1\day5_prj.dll
+C:\Users\ashgupta25\desktop\projects\day5\day5_prj\obj\Debug\netcoreapp3.1\day5_prj.pdb
+C:\Users\ashgupta25\desktop\projects\day5\day5_prj\obj\Debug\netcoreapp3.1\day5_prj.genruntimeconfig.cache
