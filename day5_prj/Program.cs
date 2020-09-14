@@ -1,5 +1,6 @@
 ﻿using System;
 using Humanizer;
+using p1;
 
 namespace day5_prj
 {
@@ -29,18 +30,48 @@ namespace day5_prj
 
             // Accept a number a print mathematical table
 
-            Console.Write("Enter number:");
-            int n = Convert.ToInt32(Console.ReadLine());
+            // Console.Write("Enter number:");
+            // int n = Convert.ToInt32(Console.ReadLine());
 
-            for (int i = 1; i <= 10; i++)
+            // for (int i = 1; i <= 10; i++)
+            // {
+            //      System.Console.WriteLine("{0}x{1}={2}",n,i,(n*i));
+            // }
+
+            // System.Console.WriteLine("{0} is minimum value {1} is maximum value",int.MinValue,int.MaxValue);
+            // System.Console.WriteLine("{0} is the integer value",int.Parse("45"));
+            // byte b1 = 10;
+
+            // int a1 = b1; 
+            // string s1 = String.Format("This is an example of implicit conversion {0} to {1} which is a integer type",b1,a1);
+            // System.Console.WriteLine(s1);
+
+            // String s2 = s1 + " ok";
+            // System.Console.WriteLine(s2);
+
+            // s2 = s1 + s2;
+            // System.Console.WriteLine(s2);
+
+            // System.Console.WriteLine(s2[5]);
             {
-                 System.Console.WriteLine("{0}x{1}={2}",n,i,(n*i));
+                int x = 0;
+                System.Console.WriteLine(x);
+                Add ob = new Add();
+                ob.read();
+                ob.cal();
+                ob.display();
+                ob.dispose();
+
+                Add ob2 = new Add(40,50);
+                System.Console.WriteLine("{0} {1}",ob.num1,ob2.num1);
+                System.Console.WriteLine("{0} {1}",Add.num3,Add.num3);
             }
 
+            
 
 
-
-
+            System.GC.Collect();
+            
         }
 
 
