@@ -7,11 +7,11 @@ namespace p2{
 
         public void test2(){
 
-            Access obj = new Access();
-            // obj.f1();
-            // obj.f2();
-            // obj.f3();
-            obj.f5();
+            // Access obj = new Access();
+            // // obj.f1();
+            // // obj.f2();
+            // // obj.f3();
+            // obj.f5();
 
             
 
@@ -34,11 +34,11 @@ namespace p2{
     class Access4 : Access{
 
         public void test5(){
-            f1();
-            f2();
-            f3();
-            f5();
-            f4();
+            // f1();
+            // f2();
+            // f3();
+            // f5();
+            // f4();
 
 
 
