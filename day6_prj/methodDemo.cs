@@ -24,7 +24,6 @@ namespace p2{
         }
 
         public void f5(in int x){
-            x=6;
             System.Console.WriteLine(x);
         }
 

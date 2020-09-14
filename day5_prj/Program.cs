@@ -53,19 +53,37 @@ namespace day5_prj
             // System.Console.WriteLine(s2);
 
             // System.Console.WriteLine(s2[5]);
-            {
-                int x = 0;
-                System.Console.WriteLine(x);
-                Add ob = new Add();
-                ob.read();
-                ob.cal();
-                ob.display();
-                ob.dispose();
+            // {
+            //     int x = 0;
+            //     System.Console.WriteLine(x);
+            //     Add ob = new Add();
+            //     ob.read();
+            //     ob.cal();
+            //     ob.display();
+            //     ob.dispose();
 
-                Add ob2 = new Add(40,50);
-                System.Console.WriteLine("{0} {1}",ob.num1,ob2.num1);
-                System.Console.WriteLine("{0} {1}",Add.num3,Add.num3);
-            }
+            //     Add ob2 = new Add(40,50);
+            //     System.Console.WriteLine("{0} {1}",ob.num1,ob2.num1);
+            //     System.Console.WriteLine("{0} {1}",Add.num3,Add.num3);
+            // }
+
+
+            // {
+            //     Subtract ob = new Subtract(4,5);
+            //     Subtract ob1 = new Subtract(ob);
+            //     System.Console.WriteLine("{0} {1}",ob.a,ob1.a);
+
+
+
+            // }
+
+            Access obj = new Access();
+            //obj.f1();
+            //obj.f3();
+            obj.f2();
+            obj.f4();
+            obj.f5();
+           
 
             
 
