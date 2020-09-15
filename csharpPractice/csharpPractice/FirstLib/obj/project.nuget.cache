@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uayncwroUTQS8PMKUVCdpecPGRo2my6cjloPf0fBiN/VJQR86N3NrIycFLl9aaOWM4NjNblTi4mGWxl0uXhmGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\csharpPractice\\FirstLib\\FirstLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhachawl1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bhachawl1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

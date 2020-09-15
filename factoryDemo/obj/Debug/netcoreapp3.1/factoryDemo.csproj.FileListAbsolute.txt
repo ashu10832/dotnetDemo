@@ -1,0 +1,16 @@
+C:\Users\ashgupta25\desktop\projects\day5\factoryDemo\bin\Debug\netcoreapp3.1\factoryDemo.exe
+C:\Users\ashgupta25\desktop\projects\day5\factoryDemo\bin\Debug\netcoreapp3.1\factoryDemo.deps.json
+C:\Users\ashgupta25\desktop\projects\day5\factoryDemo\bin\Debug\netcoreapp3.1\factoryDemo.runtimeconfig.json
+C:\Users\ashgupta25\desktop\projects\day5\factoryDemo\bin\Debug\netcoreapp3.1\factoryDemo.runtimeconfig.dev.json
+C:\Users\ashgupta25\desktop\projects\day5\factoryDemo\bin\Debug\netcoreapp3.1\factoryDemo.dll
+C:\Users\ashgupta25\desktop\projects\day5\factoryDemo\bin\Debug\netcoreapp3.1\factoryDemo.pdb
+C:\Users\ashgupta25\desktop\projects\day5\factoryDemo\obj\Debug\netcoreapp3.1\factoryDemo.csprojAssemblyReference.cache
+C:\Users\ashgupta25\desktop\projects\day5\factoryDemo\obj\Debug\netcoreapp3.1\factoryDemo.AssemblyInfoInputs.cache
+C:\Users\ashgupta25\desktop\projects\day5\factoryDemo\obj\Debug\netcoreapp3.1\factoryDemo.AssemblyInfo.cs
+C:\Users\ashgupta25\desktop\projects\day5\factoryDemo\obj\Debug\netcoreapp3.1\factoryDemo.csproj.CoreCompileInputs.cache
+C:\Users\ashgupta25\desktop\projects\day5\factoryDemo\obj\Debug\netcoreapp3.1\factoryDemo.dll
+C:\Users\ashgupta25\desktop\projects\day5\factoryDemo\obj\Debug\netcoreapp3.1\factoryDemo.pdb
+C:\Users\ashgupta25\desktop\projects\day5\factoryDemo\obj\Debug\netcoreapp3.1\factoryDemo.genruntimeconfig.cache
+C:\Users\ashgupta25\desktop\projects\day5\factoryDemo\bin\Debug\netcoreapp3.1\FirstLib.dll
+C:\Users\ashgupta25\desktop\projects\day5\factoryDemo\bin\Debug\netcoreapp3.1\FirstLib.pdb
+C:\Users\ashgupta25\desktop\projects\day5\factoryDemo\obj\Debug\netcoreapp3.1\factoryDemo.csproj.CopyComplete
