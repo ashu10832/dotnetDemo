@@ -1,0 +1,13 @@
+C:\Users\ashgupta25\desktop\projects\day5\day8_prj\obj\Debug\netcoreapp3.1\day8_prj.csprojAssemblyReference.cache
+C:\Users\ashgupta25\desktop\projects\day5\day8_prj\obj\Debug\netcoreapp3.1\day8_prj.AssemblyInfoInputs.cache
+C:\Users\ashgupta25\desktop\projects\day5\day8_prj\obj\Debug\netcoreapp3.1\day8_prj.AssemblyInfo.cs
+C:\Users\ashgupta25\desktop\projects\day5\day8_prj\obj\Debug\netcoreapp3.1\day8_prj.csproj.CoreCompileInputs.cache
+C:\Users\ashgupta25\desktop\projects\day5\day8_prj\bin\Debug\netcoreapp3.1\day8_prj.exe
+C:\Users\ashgupta25\desktop\projects\day5\day8_prj\bin\Debug\netcoreapp3.1\day8_prj.deps.json
+C:\Users\ashgupta25\desktop\projects\day5\day8_prj\bin\Debug\netcoreapp3.1\day8_prj.runtimeconfig.json
+C:\Users\ashgupta25\desktop\projects\day5\day8_prj\bin\Debug\netcoreapp3.1\day8_prj.runtimeconfig.dev.json
+C:\Users\ashgupta25\desktop\projects\day5\day8_prj\bin\Debug\netcoreapp3.1\day8_prj.dll
+C:\Users\ashgupta25\desktop\projects\day5\day8_prj\bin\Debug\netcoreapp3.1\day8_prj.pdb
+C:\Users\ashgupta25\desktop\projects\day5\day8_prj\obj\Debug\netcoreapp3.1\day8_prj.dll
+C:\Users\ashgupta25\desktop\projects\day5\day8_prj\obj\Debug\netcoreapp3.1\day8_prj.pdb
+C:\Users\ashgupta25\desktop\projects\day5\day8_prj\obj\Debug\netcoreapp3.1\day8_prj.genruntimeconfig.cache
