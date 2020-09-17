@@ -1,0 +1,17 @@
+C:\Users\ashgupta25\desktop\projects\day5\coll_prj\obj\Debug\netcoreapp3.1\coll_prj.csprojAssemblyReference.cache
+C:\Users\ashgupta25\desktop\projects\day5\coll_prj\obj\Debug\netcoreapp3.1\coll_prj.AssemblyInfoInputs.cache
+C:\Users\ashgupta25\desktop\projects\day5\coll_prj\obj\Debug\netcoreapp3.1\coll_prj.AssemblyInfo.cs
+C:\Users\ashgupta25\desktop\projects\day5\coll_prj\obj\Debug\netcoreapp3.1\coll_prj.csproj.CoreCompileInputs.cache
+C:\Users\ashgupta25\desktop\projects\day5\coll_prj\bin\Debug\netcoreapp3.1\day7_prj.exe
+C:\Users\ashgupta25\desktop\projects\day5\coll_prj\bin\Debug\netcoreapp3.1\coll_prj.exe
+C:\Users\ashgupta25\desktop\projects\day5\coll_prj\bin\Debug\netcoreapp3.1\coll_prj.deps.json
+C:\Users\ashgupta25\desktop\projects\day5\coll_prj\bin\Debug\netcoreapp3.1\coll_prj.runtimeconfig.json
+C:\Users\ashgupta25\desktop\projects\day5\coll_prj\bin\Debug\netcoreapp3.1\coll_prj.runtimeconfig.dev.json
+C:\Users\ashgupta25\desktop\projects\day5\coll_prj\bin\Debug\netcoreapp3.1\coll_prj.dll
+C:\Users\ashgupta25\desktop\projects\day5\coll_prj\bin\Debug\netcoreapp3.1\coll_prj.pdb
+C:\Users\ashgupta25\desktop\projects\day5\coll_prj\bin\Debug\netcoreapp3.1\day7_prj.dll
+C:\Users\ashgupta25\desktop\projects\day5\coll_prj\bin\Debug\netcoreapp3.1\day7_prj.pdb
+C:\Users\ashgupta25\desktop\projects\day5\coll_prj\obj\Debug\netcoreapp3.1\coll_prj.csproj.CopyComplete
+C:\Users\ashgupta25\desktop\projects\day5\coll_prj\obj\Debug\netcoreapp3.1\coll_prj.dll
+C:\Users\ashgupta25\desktop\projects\day5\coll_prj\obj\Debug\netcoreapp3.1\coll_prj.pdb
+C:\Users\ashgupta25\desktop\projects\day5\coll_prj\obj\Debug\netcoreapp3.1\coll_prj.genruntimeconfig.cache

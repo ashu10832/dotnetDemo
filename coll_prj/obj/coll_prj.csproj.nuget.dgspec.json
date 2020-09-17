@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ashgupta25\\desktop\\projects\\day5\\coll_prj\\coll_prj.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ashgupta25\\desktop\\projects\\day5\\coll_prj\\coll_prj.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ashgupta25\\desktop\\projects\\day5\\coll_prj\\coll_prj.csproj",
+        "projectName": "coll_prj",
+        "projectPath": "C:\\Users\\ashgupta25\\desktop\\projects\\day5\\coll_prj\\coll_prj.csproj",
+        "packagesPath": "C:\\Users\\ashgupta25\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ashgupta25\\desktop\\projects\\day5\\coll_prj\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ashgupta25\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ashgupta25\\desktop\\projects\\day5\\day7_prj\\day7_prj.csproj": {
+                "projectPath": "C:\\Users\\ashgupta25\\desktop\\projects\\day5\\day7_prj\\day7_prj.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ashgupta25\\desktop\\projects\\day5\\day7_prj\\day7_prj.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ashgupta25\\desktop\\projects\\day5\\day7_prj\\day7_prj.csproj",
+        "projectName": "day7_prj",
+        "projectPath": "C:\\Users\\ashgupta25\\desktop\\projects\\day5\\day7_prj\\day7_prj.csproj",
+        "packagesPath": "C:\\Users\\ashgupta25\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ashgupta25\\desktop\\projects\\day5\\day7_prj\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ashgupta25\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
