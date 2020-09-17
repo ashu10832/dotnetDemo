@@ -1,0 +1,13 @@
+C:\Users\ashgupta25\desktop\projects\day5\thread_prj\obj\Debug\netcoreapp3.1\thread_prj.csprojAssemblyReference.cache
+C:\Users\ashgupta25\desktop\projects\day5\thread_prj\obj\Debug\netcoreapp3.1\thread_prj.AssemblyInfoInputs.cache
+C:\Users\ashgupta25\desktop\projects\day5\thread_prj\obj\Debug\netcoreapp3.1\thread_prj.AssemblyInfo.cs
+C:\Users\ashgupta25\desktop\projects\day5\thread_prj\obj\Debug\netcoreapp3.1\thread_prj.csproj.CoreCompileInputs.cache
+C:\Users\ashgupta25\desktop\projects\day5\thread_prj\bin\Debug\netcoreapp3.1\thread_prj.exe
+C:\Users\ashgupta25\desktop\projects\day5\thread_prj\bin\Debug\netcoreapp3.1\thread_prj.deps.json
+C:\Users\ashgupta25\desktop\projects\day5\thread_prj\bin\Debug\netcoreapp3.1\thread_prj.runtimeconfig.json
+C:\Users\ashgupta25\desktop\projects\day5\thread_prj\bin\Debug\netcoreapp3.1\thread_prj.runtimeconfig.dev.json
+C:\Users\ashgupta25\desktop\projects\day5\thread_prj\bin\Debug\netcoreapp3.1\thread_prj.dll
+C:\Users\ashgupta25\desktop\projects\day5\thread_prj\bin\Debug\netcoreapp3.1\thread_prj.pdb
+C:\Users\ashgupta25\desktop\projects\day5\thread_prj\obj\Debug\netcoreapp3.1\thread_prj.dll
+C:\Users\ashgupta25\desktop\projects\day5\thread_prj\obj\Debug\netcoreapp3.1\thread_prj.pdb
+C:\Users\ashgupta25\desktop\projects\day5\thread_prj\obj\Debug\netcoreapp3.1\thread_prj.genruntimeconfig.cache
