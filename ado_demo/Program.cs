@@ -24,7 +24,11 @@ namespace ado_demo
             student.dob = Console.ReadLine();
 
             // System.Console.WriteLine(studentDAO.InsertStudent(student));
-            System.Console.WriteLine(studentDAO.InsertStudentUsingProcedure(student));
+            // System.Console.WriteLine(studentDAO.InsertStudentUsingProcedure(student));
+            // System.Console.WriteLine(studentDAO.deleteStudentByID("1010"));
+            System.Console.WriteLine(studentDAO.updateStudentByID(student));
+
+
         }
     }
 

@@ -120,8 +120,49 @@ namespace ado_demo
 
         //delete
 
-        public StudentDTO deleteStudentByID(string sid){
-            
+        public string deleteStudentByID(string sid){
+            try
+            {
+                MySqlConnection co = MConnect.getConnection();
+                co.Open();
+                string query = "delete from stud where sid=@a1";
+                MySqlCommand com = new MySqlCommand(query,co);
+                com.Parameters.AddWithValue("@a1",sid);
+
+                System.Console.WriteLine(com.ExecuteNonQuery());     
+            }
+            catch (System.Exception e)
+            {
+                throw new System.Exception(e.Message);
+            }
+            finally{
+                
+            }
+            return "Deleted!";
+
+        }
+
+        public string updateStudentByID(StudentDTO student){
+            try
+            {
+                MySqlConnection co = MConnect.getConnection();
+                co.Open();
+                string query = "update stud set fname=@a1 where sid=@a2";
+                MySqlCommand com = new MySqlCommand(query,co);
+                com.Parameters.AddWithValue("@a1",student.fname);
+                com.Parameters.AddWithValue("@a2",student.sid);
+
+                System.Console.WriteLine(com.ExecuteNonQuery());     
+            }
+            catch (System.Exception e)
+            {
+                throw new System.Exception(e.Message);
+            }
+            finally{
+                
+            }
+            return "Updated!";
+
         }
 
 
