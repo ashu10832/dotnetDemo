@@ -14,7 +14,6 @@ namespace code_first.model
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseMySQL("Server=localhost;Uid=root;Pwd=Ritzzxi1.;Database=OMS;");
-
         }
         
     }

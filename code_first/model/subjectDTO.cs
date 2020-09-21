@@ -21,6 +21,11 @@ namespace code_first.model
             set;
             get;
         }
+
+        public int quantity{
+            set;
+            get;
+        }
         
     }
     
