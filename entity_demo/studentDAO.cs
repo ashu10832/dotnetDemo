@@ -21,7 +21,66 @@ namespace entity_demo
                 throw new Exception(e.Message);
             }
         }
-        
+
+        public void getAllStudents(){
+            try
+            {
+                using (var db = new studentContext())
+                {
+                    foreach (var item in db.Stud)
+                    {
+                        System.Console.WriteLine(item.Sid + item.Fname + item.Dob);
+                    }
+
+                }                
+            }
+            catch (System.Exception e)
+            {
+                throw new Exception(e.Message);
+            }
+        }
+
+
+        public  List<Stud> getAllStudentsList(){
+            List<Stud> studentE;
+            try
+            {
+                using (var db = new studentContext())
+                {
+                    IQueryable<Stud> en = from obj in db.Stud
+                                select obj;
+                    studentE = en.ToList();
+                }
+            }
+            catch (System.Exception e)
+            {
+                
+                throw e;
+            }
+            return studentE;
+        }
+
+        public  List<Stud> getAllStudentsList(string sid){
+            List<Stud> studentE;
+            try
+            {
+                using (var db = new studentContext())
+                {
+                    IQueryable<Stud> en = from obj in db.Stud
+                                where obj.Sid==sid
+                                select obj;
+                    studentE = en.ToList();
+                }
+            }
+            catch (System.Exception e)
+            {
+                
+                throw e;
+            }
+            return studentE;
+        }
+
+
     }
     
 }
