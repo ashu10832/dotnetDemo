@@ -81,6 +81,40 @@ namespace entity_demo
         }
 
 
+        public void updateStudent(Stud student){
+            try
+            {
+                using (var db = new studentContext())
+                {
+                    var std = db.Stud.First(x => x.Sid == student.Sid );
+                    std.Fname=student.Fname;
+                    db.SaveChanges();
+                }
+            }
+            catch (System.Exception)
+            {
+                throw;
+            }
+        }
+
+        public void deleteStudent(Stud student){
+            try
+            {
+                using (var db = new studentContext())
+                {
+                    var std = db.Stud.First(x => x.Sid == student.Sid );
+                    db.Stud.Remove(std);
+                    db.SaveChanges();
+                }
+            }
+            catch (System.Exception)
+            {
+                throw;
+            }
+
+        }
+
+
     }
     
 }

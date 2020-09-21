@@ -26,19 +26,36 @@ namespace entity_demo
             //     throw;
             // }
 
-            try
+            // try
+            // {
+            //     IEnumerable<Stud> students  =  studentDAO.getAllStudentsList("1005");
+            //     foreach (var item in students)
+            //         {
+            //             System.Console.WriteLine(item.Sid + item.Fname + item.Dob);
+            //         }
+            // }
+            // catch (System.Exception e)
+            // {
+            //     System.Console.WriteLine(e.Message);
+            // }
+
+ try
             {
-                IEnumerable<Stud> students  =  studentDAO.getAllStudentsList("1005");
-                foreach (var item in students)
-                    {
-                        System.Console.WriteLine(item.Sid + item.Fname + item.Dob);
-                    }
+                // IEnumerable<Stud> students  =  studentDAO.getAllStudentsList("1005");
+                // foreach (var item in students)
+                //     {
+                //         System.Console.WriteLine(item.Sid + item.Fname + item.Dob);
+                //     }
+                Stud st = new Stud();
+                st.Sid = "1001";
+                st.Fname = "Kandarp";
+                //studentDAO.updateStudent(st);
+                studentDAO.deleteStudent(st);
             }
             catch (System.Exception e)
             {
                 System.Console.WriteLine(e.Message);
             }
-
 
         }
     }
